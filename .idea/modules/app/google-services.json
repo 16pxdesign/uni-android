@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "411942148173",
+    "firebase_url": "https://find-my-friends-android.firebaseio.com",
+    "project_id": "find-my-friends-android",
+    "storage_bucket": "find-my-friends-android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411942148173:android:601f9f745841031760e404",
+        "android_client_info": {
+          "package_name": "com.example.findmyfriends"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "411942148173-h458c7kebs06g98f59b364gpth4iv2od.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.findmyfriends",
+            "certificate_hash": "73df70519be640e80fd17ed98ddf5bca812d5e82"
+          }
+        },
+        {
+          "client_id": "411942148173-tinfgt5aciu248m6a7qslsskhk1i9bqk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5im3YoQ7MXlNSjY84F2KnxcfJtbSZMiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "411942148173-tinfgt5aciu248m6a7qslsskhk1i9bqk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411942148173:android:265526157d78a3ba60e404",
+        "android_client_info": {
+          "package_name": "com.example.findmyfriendsandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "411942148173-tinfgt5aciu248m6a7qslsskhk1i9bqk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5im3YoQ7MXlNSjY84F2KnxcfJtbSZMiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "411942148173-tinfgt5aciu248m6a7qslsskhk1i9bqk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

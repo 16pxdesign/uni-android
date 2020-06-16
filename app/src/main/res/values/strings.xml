@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FindMyFriends</string>
+    <string name="tracking_location_enabled_notif">Tracking your location is currently enabled. Tap here to cancel.</string>
+    <string name="test_email">test@test.com</string>
+    <string name="test_password">testpassword</string>
+    <string name="firebase_path">location</string>
+</resources>
